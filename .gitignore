@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Jupyter and test files
+*.ipynb
+test.py
+test.ipynb
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Large data files
+Data/*.csv
+FastAPI_Backend/test.py
+FastAPI_Backend/keys.py
+FastAPI_Backend/data.py
